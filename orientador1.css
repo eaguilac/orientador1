@@ -1,15 +1,26 @@
 
 <style type="text/css">
-@media only screen and (min-width: 768px)
-.LS81yb {
-    /* padding-left: 48px; */
-    /* padding-right: 48px; */
+
+
+input[type=text] {
+  background-color: #3CBC8D;
+  color: white;
 }
 
-.google-visualization-table-table {
+/*
+@media only screen and (min-width: 768px)
+.LS81yb {*/
+    /* padding-left: 48px; */
+    /* padding-right: 48px; */
+/*
+}*/
+/*
+.google-visualization-table-table { */
     /* font-family: arial , helvetica; */
+/*
     font-size: 8pt;
 }
+*/
 </style>
 
 
