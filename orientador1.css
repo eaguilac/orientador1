@@ -22,15 +22,16 @@ input[type=text] {
 }
 
 
-
-
 /*
 @media only screen and (min-width: 768px)
 .LS81yb {*/
-    /* padding-left: 48px; */
-    /* padding-right: 48px; */
-/*
-}*/
+
+
+@media only screen and (min-width: 768px)
+{
+    padding-left: 0px;
+    padding-right: 0px;
+}
 
 
 </style>
