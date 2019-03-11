@@ -1,6 +1,12 @@
 
 <style type="text/css">
 
+body {
+    color: purple;
+    background-color: #d8da3d ;
+    font-family: Georgia, "Times New Roman",Times, serif;      
+}
+
 
 input[type=text] {
   background-color: #3CBC8D;
@@ -10,8 +16,9 @@ input[type=text] {
 
 .google-visualization-table-table { 
     /* font-family: arial , helvetica; */
+    font-family: Georgia, "Times New Roman",Times, serif;      
 
-    font-size: 8pt;
+  font-size: 8pt;
 }
 
 
@@ -24,6 +31,8 @@ input[type=text] {
     /* padding-right: 48px; */
 /*
 }*/
+
+
 </style>
 
 
